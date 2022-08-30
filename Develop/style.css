@@ -20,14 +20,25 @@ textarea{
   border-radius: 0;
   border-bottom: 10px solid black;
 }
+/*Styled current day display*/
+#currentDay {
+  text-align: center;
+  background-color: transparent;
+  color: black;
+  border-radius: 0;
+}
 
 .description{
   white-space: pre-wrap;
 }
 
 .time-block{
-  text-align: center;
+  border: black solid 3px;
+  text-align: left;
   border-radius: 15px;
+  height: 50px;
+  padding: 10px;
+
 }
 
 .row {
