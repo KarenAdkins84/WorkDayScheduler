@@ -20,11 +20,14 @@ I added timeblocks to the HTML with corresponding classes and ids to work with t
 I used local storage to store the user's input for each hour and print it to the page.
 
 ## Screenshots
-.Develop/assets/screenshot#1.png
-.Develop/assets/screenshot#2.png
+![Screenshot](./assets/screenshot%231.png)
+![Screenshot](./assets/screenshot%232.png)
 
 ## Deployed Application
 https://karenadkins84.github.io/WorkDayScheduler/
+
+## Github Repo Link
+https://github.com/KarenAdkins84/WorkDayScheduler
 
 
 
